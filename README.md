@@ -1,3 +1,8 @@
+
+#大部分源码来自 @author lxg，类里面有作者信息
+
+#本人在基础上整合与修改。
+
 # springboot_security_oauth2.0
 
 add requeset:
